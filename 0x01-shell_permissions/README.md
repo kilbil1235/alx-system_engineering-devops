@@ -1,1 +1,1 @@
-script that prints the effective username of the current user
+Task 2. groups
