@@ -1,1 +1,1 @@
-script that prints the result of the addition
+script that prints the result of POWER divided by DIVIDE
